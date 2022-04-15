@@ -1,0 +1,26 @@
+VERSION 1:
+Mauve
+#B99095
+
+Salmon
+#FCB5AC
+
+Mint
+#B5E5CF
+
+Teal Green
+#3D5B59
+
+///////////////////////
+VERSION 2:
+Peach
+#E6B794
+
+Mint
+#B8DDD6
+
+Seafoam Green
+#E0EBE5
+
+Nude
+#AD9787
